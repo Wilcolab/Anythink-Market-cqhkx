@@ -4,4 +4,4 @@ ADD https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.s
 
 RUN chmod +x /wait-for-it.sh
 
-ENV NEW_RELIC_NO_CONFIG_FILE=true
+
