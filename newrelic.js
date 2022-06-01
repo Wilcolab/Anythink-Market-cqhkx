@@ -10,10 +10,6 @@ exports.config = {
    * Array of application names.
    */
   app_name: ['Anythink Market APP'],
-  /**
-   * Your New Relic license key.
-   */
-  license_key: 'd44909e23cdea6bf458fabb9e2afcd6c093cNRAL',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
