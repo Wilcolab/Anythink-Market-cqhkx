@@ -1,10 +1,5 @@
 {
   "dependencies": {
-<<<<<<< Updated upstream
     "newrelic": "^8.13.2"
-=======
-    "dotenv": "^16.0.1",
-    "mongoose": "^6.3.5"
->>>>>>> Stashed changes
   }
 }
